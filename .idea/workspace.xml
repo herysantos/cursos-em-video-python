@@ -2,28 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3f2142d-dd04-416b-bc0d-804a07c9f805" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso8Modules.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/desafio16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/desafio17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/desafio18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/desafio19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso9Strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio19e20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio27.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex002.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex002.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex004.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex004.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex006.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex007.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex007.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex008.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex008.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex011.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex011.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex012.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex012.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex013.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex013.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex014.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex014.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex015.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex015.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe005.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex005.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe006.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe009.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex009.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe010.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex010.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,29 +52,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.desafio18">
-    <configuration name="curso8Modules" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="cursos_em_videos_mundo_1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso8Modules.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="desafio16" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.desafio27">
+    <configuration name="desafio22" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cursos_em_videos_mundo_1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -98,7 +65,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/desafio16.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/desafio22.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +74,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafio17" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="desafio23" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cursos_em_videos_mundo_1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,7 +86,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/desafio17.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/desafio23.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,7 +95,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafio18" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="desafio24" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cursos_em_videos_mundo_1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,7 +107,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/desafio18.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/desafio24.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex006" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="desafio26" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cursos_em_videos_mundo_1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -157,11 +124,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/desafios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/ex006.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/desafio26.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="desafio27" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cursos_em_videos_mundo_1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/desafios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/desafio27.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.desafio18" />
-        <item itemvalue="Python.desafio17" />
-        <item itemvalue="Python.desafio16" />
-        <item itemvalue="Python.ex006" />
-        <item itemvalue="Python.curso8Modules" />
+        <item itemvalue="Python.desafio27" />
+        <item itemvalue="Python.desafio26" />
+        <item itemvalue="Python.desafio24" />
+        <item itemvalue="Python.desafio23" />
+        <item itemvalue="Python.desafio22" />
       </list>
     </recent_temporary>
   </component>
