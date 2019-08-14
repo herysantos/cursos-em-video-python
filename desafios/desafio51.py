@@ -7,7 +7,7 @@ r = int(input('Informe a razão dessa progressão aritimética: '))
 
 # Primeira maneira
 ultimo = 9 * r + primeiro
-for c in range(primeiro, ultimo+1, r):
+for c in range(primeiro, ultimo+r, r):
     print(c)
 
 #Segunda maneira

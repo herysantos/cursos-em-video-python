@@ -3,5 +3,6 @@
 # que se encontram no intervalo de 1 até 500.
 s = 0
 for c in range(0, 500, 3):
-    s += c
+    if c % 2 == 1:
+        s += c
 print(s)
