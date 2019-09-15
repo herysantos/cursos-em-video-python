@@ -15,7 +15,7 @@ for c in range(4):
 media = 0
 velhinho = 0
 idade_velhinho = 0
-novinhas = 0
+mulhermenos20 = 0
 
 for c in range(4):
     # media do grupo
@@ -26,10 +26,10 @@ for c in range(4):
         velhinho = c
     # mulheres com menos de 20
     if sexos[c] == 'F' and idades[c] < 20:
-        novinhas += 1
+        mulhermenos20 += 1
 media /= 4
 
 print('A média de idades é {:.2f}'.format(media))
 print('O homem mais velho é {} e tem {} anos.'.format(nomes[velhinho], idade_velhinho))
-print('E apareceu {} novinhas.'.format(novinhas))
+print('E apareceu {} mulheres novas.'.format(mulhermenos20))
 
