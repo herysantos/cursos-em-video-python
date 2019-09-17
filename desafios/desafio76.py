@@ -14,10 +14,18 @@ produtos = (
 
 print(f'{"-"*35}\n{"LISTAGEM DE PREÇOS":^30}\n{"-"*35}')
 
+'''
+# Primeira maneira
 for p in produtos:
     if cont % 2 == 0:
         print(f'{p:.<20}{"R$ "}', end='')
     else:
         print(f'{p:>10.2f}')
     cont += 1
+'''
+
+# Outra maneira, Sabendo que o tamanho da lista é sempre multiplo de 2.
+
+for p in range(0, len(produtos), 2):
+    print(f'{produtos[p]:.<20}{"R$ "}{produtos[p+1]:>10.2f}')
 print(f'{"-"*35}')

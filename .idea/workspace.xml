@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="d3f2142d-dd04-416b-bc0d-804a07c9f805" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafios/desafio74.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/desafio74.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafios/desafio76.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/desafio76.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafios/desafio77.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/desafio77.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -156,8 +159,8 @@
       <list>
         <item itemvalue="Python.desafio77" />
         <item itemvalue="Python.desafio76" />
-        <item itemvalue="Python.desafio75" />
         <item itemvalue="Python.desafio74" />
+        <item itemvalue="Python.desafio75" />
         <item itemvalue="Python.tuplas" />
       </list>
     </recent_temporary>
